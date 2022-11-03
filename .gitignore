@@ -21,6 +21,5 @@ Temp
 Logs
 UserSettings
 *.sln
+*.csproj
 *.unitypackage
-Assembly-CSharp*.csproj
-RiderScriptEditorPersistedState.asset
